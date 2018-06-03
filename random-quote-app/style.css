@@ -1,0 +1,45 @@
+body {
+    background: url(https://images.unsplash.com/photo-1489589947464-ac72e1abd198?ixlib=rb-0.3.5&s=07685f1a0d0dbfa2f86cedf222eb9747&auto=format&fit=crop&w=1000&q=60) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
+  }
+  
+  body,
+  h1,
+  h3,
+  p {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+
+  .quoteContainer {
+    background: rgba(255,255,255,.25); 
+    margin-top: 2%;
+    margin-bottom: 3%;
+    padding: 30px;
+    width: 65%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 25px;
+    font-size: 1.3em;
+    padding-bottom: 2%;
+  }
+  
+  /* h1 {
+    margin-top: 5%;
+  }*/
+
+ .container-fluid {
+   margin-top: 5%;
+  }
+  
+  hr {
+  border-color:black;
+  border-width: 1.5px;
+  width: 50%;
+  }
+
+  .btn {
+    color: rgba(0,59,97,.99); 
+  }
